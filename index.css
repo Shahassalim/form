@@ -13,7 +13,7 @@ body{
 	height: 100px;
 	width: 150px;
     /*display: flex;*/
-    margin-left: 260px;
+    /*margin-left: 260px;*/
     display: flex;
     /*margin-top: 10px;*/
     /*margin-bottom: 10px;*/
@@ -85,6 +85,6 @@ wrapper .form .input_field label{
  margin-bottom: 5px;
 
 }
-.wrap img{
-  margin-left: 142px;
-}
+/*.wrap img{*/
+  /*margin-left: 142px;*/
+/*}*/
